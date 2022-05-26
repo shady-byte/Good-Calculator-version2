@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="add_sign">+</string>
+    <string name="subtract_sign">-</string>
+    <string name="multiply_sign">*</string>
+    <string name="divide_sign">/</string>
+    <string name="symbol_title"> </string>
+</resources>
